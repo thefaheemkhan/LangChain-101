@@ -3,7 +3,7 @@
 
 <br/>
 
-> **From Zero to Production-Grade AI Engineer.** [Link ](https://ai-engineering-mastery-101.netlify.app/)
+> **From Zero to Production-Grade AI Engineer.** [Link ](https://ai-engineering-mastery-101.netlify.app/) /
 > **Build things companies already need.** [Link ](https://ai-projects-roadmap.netlify.app/)
 
 <br/>
