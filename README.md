@@ -7,11 +7,6 @@
 > 
 <br/>
 
-<br/>
-
-> **Build things companies already need.** [Link ](https://ai-projects-roadmap.netlify.app/)
-> 
-<br/>
 
 1. **From Zero to Production-Grade AI Engineer.** [Link ](https://ai-engineering-mastery-101.netlify.app/)
 2. **25+ ML & DL Visualization Resources.** [Link ](https://ml-dl-visualization.netlify.app/)
@@ -20,3 +15,15 @@
 5. **Master Claude Go 100x.** [Link ](https://claude-mastery-roadmap.netlify.app/)
 6. **AI Forward Deployed Engineer.** [Link ](https://aifde.netlify.app/)
 7. **AI Engineer & Researcher.** [Link ](https://ai-engineer-researcher-roadmap.netlify.app/)
+
+
+### 🔵 Track 01 — Core AI
+| # | Topic |
+|---|-------|
+| [Link ](https://ai-engineering-mastery-101.netlify.app/) | **From Zero to Production-Grade AI Engineer.** |
+| [Link ](https://ml-dl-visualization.netlify.app/) | **25+ ML & DL Visualization Resources.** |
+| [Link ](https://ai-projects-roadmap.netlify.app/) | **Build things companies already need.** |
+| [Link ](https://ai-hirable-projects.netlify.app/) | **12 Projects That Get You Hired.** |
+| [Link ](https://claude-mastery-roadmap.netlify.app/) | **Master Claude Go 100x.** |
+| [Link ](https://aifde.netlify.app/) | **AI Forward Deployed Engineer.** |
+| [Link ](https://ai-engineer-researcher-roadmap.netlify.app/) | **AI Engineer & Researcher.** |
