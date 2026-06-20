@@ -1,1 +1,1 @@
-LangChain 101
+LangChain 101 Playlist
