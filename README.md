@@ -1,5 +1,1 @@
-# LangChain 101 Playlist
-AI Agent
-
- 
- 
+# LangChain 101
